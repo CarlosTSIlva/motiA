@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "motiA",
+    "slug": "motiA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "motiA"
+}
